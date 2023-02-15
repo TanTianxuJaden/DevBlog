@@ -1,3 +1,23 @@
 body{
     text-align: center;
 }
+
+h1{
+    border: 3px;
+    border-radius: 10px;
+    background-color: wheat;
+    margin: 20px;
+    padding: 20px;
+}
+
+.margin_text{
+    margin:20px
+}
+
+.box{
+    border: 3px;
+    border-radius: 10px;
+    border-color: grey;
+    border-style: solid;
+    padding:20px;
+}
